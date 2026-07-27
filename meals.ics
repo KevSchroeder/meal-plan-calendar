@@ -4,4 +4,74 @@ PRODID:-//Kevin Schroeder//Meal Planner//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Meal Plan
+BEGIN:VEVENT
+UID:mealplan-20260727-dinner-0@meal-planner.kevschroeder
+DTSTAMP:20260727T011802Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20260727
+DTEND;VALUE=DATE:20260728
+SUMMARY:Dinner: Crispy Chickpea & Broccoli Rice Bowls
+DESCRIPTION:Crispy roasted chickpeas and broccoli over rice.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mealplan-20260728-dinner-0@meal-planner.kevschroeder
+DTSTAMP:20260727T011802Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20260728
+DTEND;VALUE=DATE:20260729
+SUMMARY:Dinner: Black Bean & Sweet Potato Tacos with Charred Cauliflower
+DESCRIPTION:Black bean and sweet potato tacos with charred cauliflower.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mealplan-20260729-dinner-0@meal-planner.kevschroeder
+DTSTAMP:20260727T011802Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20260729
+DTEND;VALUE=DATE:20260730
+SUMMARY:Dinner: Chickpea Pasta with White Beans\, Peas & Spinach
+DESCRIPTION:Chickpea pasta tossed with white beans\, peas\, and spinach.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mealplan-20260730-dinner-0@meal-planner.kevschroeder
+DTSTAMP:20260727T011802Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20260730
+DTEND;VALUE=DATE:20260731
+SUMMARY:Dinner: Mild Chickpea & Potato Curry with Yogurt Raita
+DESCRIPTION:A mild chickpea and potato curry served with yogurt raita.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mealplan-20260731-dinner-0@meal-planner.kevschroeder
+DTSTAMP:20260727T011802Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20260731
+DTEND;VALUE=DATE:20260801
+SUMMARY:Dinner: Quinoa Bowls with Roasted Broccoli\, Red Pepper & Feta
+DESCRIPTION:Quinoa bowls with roasted broccoli\, red pepper\, and feta.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mealplan-20260801-dinner-0@meal-planner.kevschroeder
+DTSTAMP:20260727T011802Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20260801
+DTEND;VALUE=DATE:20260802
+SUMMARY:Dinner: Loaded Sweet Potatoes with Spiced Chickpeas & Yogurt
+DESCRIPTION:Loaded sweet potatoes topped with spiced chickpeas and yogurt.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mealplan-20260802-dinner-0@meal-planner.kevschroeder
+DTSTAMP:20260727T011802Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20260802
+DTEND;VALUE=DATE:20260803
+SUMMARY:Dinner: White Bean\, Spinach & Lemon Soup
+DESCRIPTION:A bright\, brothy soup with white beans\, spinach\, and lemon.
+TRANSP:TRANSPARENT
+END:VEVENT
 END:VCALENDAR
